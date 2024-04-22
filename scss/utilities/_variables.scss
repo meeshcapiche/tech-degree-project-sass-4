@@ -1,0 +1,23 @@
+
+// Colors                        
+$primary-color: #58e1c1;
+$secondary-color: #777;
+
+$accent-color: #51ddfc;
+$accent-light: lighten($accent-color, 15%);
+
+$primary-bg-color: #927bc1;
+$primary-bg-light: lighten($primary-bg-color, 15%);
+
+$secondary-bg-color: #fd7856;
+$secondary-bg-light: lighten($secondary-bg-color, 15%);
+
+$success-color: #63cc82;
+$success-color-light: lighten($success-color, 15%);
+
+$error-color: #e4757a; 
+$error-color-light: lighten($error-color, 15%);
+
+
+// Break Points
+$break-m: 768px; 
