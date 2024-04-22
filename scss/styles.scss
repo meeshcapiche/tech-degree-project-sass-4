@@ -6,14 +6,17 @@
 @import 'utilities/variables';
         
 // Base Styles     
-@import 'base/typography',
-        'base/base',
-        'base/layout';
+@import 'base/base',
+        'base/typography';
+        
 
 // Component Styles
-@import 'component/navigation',
-        'component/grid',
+@import 'component/grid',
+        'component/navigation',
         'component/button',
-        'component/images',
-        'component/form';
+        'component/form',
+        'component/images';
         
+
+// Media Queries
+@import 'base/layout';
